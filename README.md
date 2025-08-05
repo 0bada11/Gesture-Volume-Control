@@ -4,7 +4,7 @@ This Python project uses **hand gestures** detected by your webcam to control th
 
 ---
 
-## 📸 Features
+##  Features
 
 -  Real-time hand detection via webcam
 -  Controls volume using the distance between **thumb** and **index finger**
