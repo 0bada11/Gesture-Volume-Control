@@ -18,7 +18,7 @@ The program detects your hand using **MediaPipe** and adjusts the system volume 
 
 ---
 
-## 🛠 Requirements
+## Requirements
 Make sure you have Python 3.8+ installed, then install the required libraries:
 
 ```bash
